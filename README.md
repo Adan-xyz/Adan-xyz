@@ -10,11 +10,6 @@ Welcome to my GitHub profile! I'm a developer, investor & trader interested in w
 	<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/solidity.png" alt="Solidity" title="Solidity"/>
 </div>
 
-- **Tools:**
-VS Code & etc.
-- **Others:**
-cloud services, databases, etc.
-
 ### 🌱 Currently Learning
 - Blockchain & Web3
 
