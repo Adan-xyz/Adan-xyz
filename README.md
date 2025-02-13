@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Adanxyz!
+<h2 align="center"> 👋 Hi there, I'm Adanxyz! </h2>
 Welcome to my GitHub profile! I'm a developer, investor & trader interested in web development, discord app/bot development, capital markets and blockchain technology. I love learning new things and collaborating on interesting projects.
 
 ### Languages, Frameworks, Tools
