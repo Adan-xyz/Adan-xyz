@@ -20,7 +20,3 @@ cloud services, databases, etc.
 
 ## 💡 Fun Fact
 I like to drink coffee while coding :]
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img src="https://jv.m.wikipedia.org/wiki/Barkas:Unofficial_JavaScript_logo_2.svg" width="24" height="24">
-</a>
