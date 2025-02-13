@@ -1,8 +1,7 @@
 ## 👋 Hi, I'm Adanxyz!
 Welcome to my GitHub profile! I'm a developer, investor & trader interested in web development, discord app/bot development, capital markets and blockchain technology. I love learning new things and collaborating on interesting projects.
 
-## 🛠️ Technologies I Use
-- **Programming Languages:**
+## Languages, Frameworks/Libraries, Tools
 
 <div align="center">
 	<img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/>
