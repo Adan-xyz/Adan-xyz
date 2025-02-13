@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a developer, investor & trader interested in w
 - **[Topaz](https://github.com/Adan-xyz/Topaz)** - wait
 
 ### 📫 Contact Me
-- **Email:** [adansaprudin.xyz@protonmail.com]
+- **Email:** adansaprudin.xyz@protonmail.com
 
 ### 💡 Fun Fact
 I like to drink coffee while coding :]
