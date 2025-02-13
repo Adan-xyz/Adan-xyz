@@ -14,3 +14,9 @@ cloud services, databases, etc.
 
 ## 📂 Featured Projects
 - **[Topaz](https://github.com/Adan-xyz/Topaz)** - wait
+
+## 📫 Contact Me
+- **Email:** [email]
+
+## 💡 Fun Fact
+I like to drink coffee while coding :]
