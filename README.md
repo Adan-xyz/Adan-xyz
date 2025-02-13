@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm a developer, investor & trader interested in w
 VS Code & etc.
 - **Others:**
 cloud services, databases, etc.
+[![JavaScript](https://jv.m.wikipedia.org/wiki/Barkas:Unofficial_JavaScript_logo_2.svg)](link-yang-dituju)
 
 ## 🌱 Currently Learning
 - Blockchain & Web3
