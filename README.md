@@ -11,3 +11,6 @@ cloud services, databases, etc.
 
 ## 🌱 Currently Learning
 - Blockchain & Web3
+
+## 📂 Featured Projects
+- **[Topaz](https://github.com/Adan-xyz/Topaz)** - wait
