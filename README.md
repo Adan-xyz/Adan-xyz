@@ -9,5 +9,5 @@ VS Code & etc.
 - **Others:**
 cloud services, databases, etc.
 
-## 🌱 Sedang Dipelajari
+## 🌱 Currently Learning
 - Blockchain & Web3
