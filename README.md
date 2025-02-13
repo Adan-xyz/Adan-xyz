@@ -8,3 +8,6 @@ Welcome to my GitHub profile! I'm a developer, investor & trader interested in w
 VS Code & etc.
 - **Others:**
 cloud services, databases, etc.
+
+## 🌱 Sedang Dipelajari
+- Blockchain & Web3
