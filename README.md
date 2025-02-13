@@ -28,7 +28,9 @@ Welcome to my GitHub profile! I'm a developer, investor & trader interested in w
 </div>
 
 ### 🌱 Currently Learning
-- Blockchain & Web3
+- JavaScript
+- Python
+- Solidity
 
 ### 📂 Featured Projects
 - **[Topaz](https://github.com/Adan-xyz/Topaz)** - wait
