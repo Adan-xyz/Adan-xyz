@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a developer, investor & trader interested in w
 - Solidity
 
 ### 📂 Featured Projects
-- **[Topaz](https://github.com/Adan-xyz/Topaz)** - wait
+- **[Topaz](https://github.com/Adan-xyz/Topaz)** - Still in progress!
 
 ### 📫 Contact Me
 - **Email:** adansaprudin.xyz@protonmail.com
