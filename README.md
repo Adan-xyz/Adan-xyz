@@ -15,14 +15,14 @@ VS Code & etc.
 - **Others:**
 cloud services, databases, etc.
 
-## 🌱 Currently Learning
+### 🌱 Currently Learning
 - Blockchain & Web3
 
-## 📂 Featured Projects
+### 📂 Featured Projects
 - **[Topaz](https://github.com/Adan-xyz/Topaz)** - wait
 
-## 📫 Contact Me
+### 📫 Contact Me
 - **Email:** [email]
 
-## 💡 Fun Fact
+### 💡 Fun Fact
 I like to drink coffee while coding :]
