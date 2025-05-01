@@ -18,11 +18,5 @@ I'm just an ordinary living being, having desires and enjoying learning somethin
   </tr>
 </table>
 
-### 📂 Featured Projects
-- **[Topaz](https://github.com/Adan-xyz/Topaz)** - Still in progress!
-
-### 📫 Contact Me
-- **Email:** adansaprudin.xyz@protonmail.com
-
 ### 💡 Fun Fact
 I like to drink coffee while coding :]
