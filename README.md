@@ -18,7 +18,7 @@ I'm just an ordinary living being, having desires and enjoying learning somethin
   </tr>
 </table>
 
-### 📊 Github Stats
+### 📊 GitHub Stats
 <table>
   <tr>
     <td align="center" width="50%">
