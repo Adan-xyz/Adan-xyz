@@ -9,7 +9,7 @@ I'm just an ordinary living being, having desires and enjoying learning somethin
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](#)<br>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,deno,discordjs,sqlite)](#)
 
-### 🌌 Profile ACC
+### 🐦 Profile Account
 <table>
   <tr>
     <td align="center" width="50%">
