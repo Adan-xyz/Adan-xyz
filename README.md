@@ -18,5 +18,14 @@ I'm just an ordinary living being, having desires and enjoying learning somethin
   </tr>
 </table>
 
+### 📊 Github Stats
+<table>
+  <tr>
+    <td align="center" width="50%">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adan-xyz&layout=compact"/>
+    </td>
+  </tr>
+</table>
+
 ### 💡 Fun Fact
 I like to drink coffee while coding :]
