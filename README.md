@@ -5,7 +5,7 @@ I'm just an ordinary living being, having desires and enjoying learning somethin
 - JavaScript
 - TypeScript
 
-<h3 align="center"> Languages, Frameworks, Tools </h3>
+<h3>💻 Languages & Frameworks</h3>
 
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
@@ -30,11 +30,6 @@ I'm just an ordinary living being, having desires and enjoying learning somethin
     <img width="35" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/>
   </a>
 </div>
-
-### 🌱 Currently Learning
-- JavaScript
-- Python
-- Solidity
 
 ### 📂 Featured Projects
 - **[Topaz](https://github.com/Adan-xyz/Topaz)** - Still in progress!
