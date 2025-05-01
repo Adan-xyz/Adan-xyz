@@ -1,5 +1,9 @@
-<h2>Hi</h2>
-Welcome to my GitHub profile! I'm a developer, investor & trader interested in web development, discord app/bot development, capital markets and blockchain technology. I love learning new things and collaborating on interesting projects.
+<h2>✨ About Me</h2>
+I'm just an ordinary living being, having desires and enjoying learning something new.
+
+### 🔭 Currently Learning
+- JavaScript
+- TypeScript
 
 <h3 align="center"> Languages, Frameworks, Tools </h3>
 
