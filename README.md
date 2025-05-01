@@ -5,9 +5,10 @@ I'm just an ordinary living being, having desires and enjoying learning somethin
 - JavaScript
 - TypeScript
 
-<h3>💻 Languages & Frameworks</h3>
+### 💻 Languages & Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,deno,discordjs,sqlite?perline=4)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](#)<br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,deno,discordjs,sqlite)](#)
 
 ### 📂 Featured Projects
 - **[Topaz](https://github.com/Adan-xyz/Topaz)** - Still in progress!
