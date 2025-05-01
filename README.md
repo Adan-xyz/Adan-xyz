@@ -7,7 +7,7 @@ I'm just an ordinary living being, having desires and enjoying learning somethin
 
 <h3>💻 Languages & Frameworks</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,discordjs,sqlite)](https://skillicons.dev)
 
 ### 📂 Featured Projects
 - **[Topaz](https://github.com/Adan-xyz/Topaz)** - Still in progress!
