@@ -6,8 +6,8 @@ I'm just an ordinary living being, having desires and enjoying learning somethin
 - TypeScript
 
 ### 💻 Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](#)<br>
-[![My Skills](https://skillicons.dev/icons?i=nodejs,deno,discordjs,sqlite)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bash)](#)<br>
+[![My Skills](https://skillicons.dev/icons?i=nodejs,deno,firebase,discordjs,sqlite)](#)
 
 ### 🐦 Profile Account
 <table>
