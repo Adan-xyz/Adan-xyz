@@ -29,3 +29,6 @@ I'm just an ordinary living being, having desires and enjoying learning somethin
 
 ### 💡 Fun Fact
 I like to drink coffee while coding :]
+
+### 📝 Quotes
+"I hate TypeScript."
