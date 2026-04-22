@@ -8,7 +8,7 @@ I'm just an ordinary living being, having desires and enjoying learning somethin
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bash,mongo)](#)<br>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,deno,bun,firebase,discordjs,sqlite)](#)
 
-### 🐦 Profile Account
+### 🐦 Discord Profile
 <table>
   <tr>
     <td align="center" width="50%">
