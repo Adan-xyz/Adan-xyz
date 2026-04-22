@@ -1,33 +1,40 @@
-<h2>✨ About Me</h2>
-I'm just an ordinary living being, having desires and enjoying learning something new.
+<h2 align="center">Hi, I'm Adan 👋</h2>
 
-### 🔭 Currently Learning
-- JavaScript
+<p align="center">
+  <i>"Just a 1x-year-old in Indonesia trying to make sense of the code, charts, and the digital void."</i>
+</p>
 
-### 💻 Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bash,mongo)](#)<br>
-[![My Skills](https://skillicons.dev/icons?i=nodejs,deno,bun,firebase,discordjs,sqlite)](#)
+---
 
-### 🐦 Discord Profile
+### 🔭 Current Focus
+- **Coding:** Deep diving into JavaScript.
+- **Trading:** Auditing my strategy (xxx).
+- **Life:** Documenting, learning, and occasionally contemplating deleting my digital footprint.
+
+### 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bash,nodejs,deno,bun,firebase,discordjs,sqlite,mongo" alt="skills" />
+</p>
+
+### 📊 Presence & Stats
 <table>
   <tr>
     <td align="center" width="50%">
-    <img width="100%" src="https://lanyard.cnrad.dev/api/1201548503093100634"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adan-xyz&layout=compact&hide_border=true&theme=tokyonight" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://lanyard.cnrad.dev/api/1201548503093100634" />
     </td>
   </tr>
 </table>
 
-### 📊 GitHub Stats
-<table>
-  <tr>
-    <td align="center" width="50%">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adan-xyz&layout=compact"/>
-    </td>
-  </tr>
-</table>
+### 💡 The Random Stuff
+- **Current Mood:** In a love-hate relationship with the internet.
+- **Coffee:** Fueling the late-night sessions.
+- **Gaming:** Genshin Impact, ZZZ, Wuthering Waves.
 
-### 💡 Fun Fact
-I like to drink coffee while coding :]
+---
 
-### 📝 Quotes
-"I hate TypeScript."
+<p align="center">
+  <i>"I hate TypeScript, but I can't live without it."</i>
+</p>
