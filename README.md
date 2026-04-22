@@ -3,10 +3,9 @@ I'm just an ordinary living being, having desires and enjoying learning somethin
 
 ### 🔭 Currently Learning
 - JavaScript
-- TypeScript
 
 ### 💻 Languages & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,solidity,bash)](#)<br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,bash,mongo)](#)<br>
 [![My Skills](https://skillicons.dev/icons?i=nodejs,deno,bun,firebase,discordjs,sqlite)](#)
 
 ### 🐦 Profile Account
