@@ -7,13 +7,13 @@
 ---
 
 ### 🔭 Current Focus
-- **Coding:** Deep diving into JavaScript.
-- **Trading:** Auditing my strategy (xxx).
+- **Coding:** Deep diving into JavaScript and Assembly.
+- **Trading:** Burning my strategy.
 - **Life:** Documenting, learning, and occasionally contemplating deleting my digital footprint.
 
 ### 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bash,nodejs,deno,bun,firebase,discordjs,sqlite,mongo" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,asm,replit,bash,nodejs,firebase,discordjs,mongo" alt="skills" />
 </p>
 
 ### 📊 Presence & Stats
@@ -36,5 +36,5 @@
 ---
 
 <p align="center">
-  <i>"I hate TypeScript, but I can't live without it."</i>
+  <i>"I hate TypeScript."</i>
 </p>
