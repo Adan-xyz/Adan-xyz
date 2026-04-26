@@ -7,7 +7,7 @@
 ---
 
 ### 🔭 Current Focus
-- **Coding:** Deep diving into JavaScript and Assembly.
+- **Coding:** Deep diving into Assembly.
 - **Trading:** Burning my strategy.
 - **Life:** Documenting, learning, and occasionally contemplating deleting my digital footprint.
 
